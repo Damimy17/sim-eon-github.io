@@ -1,0 +1,9 @@
+.img {
+    width: auto;
+    height: auto;
+    background-image: url('sim.jpg');
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 20px;
+ 
+}

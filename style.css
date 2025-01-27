@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Named color */
+h1 {
+    color: blue;
+}
+
+/* Hex color */
+p {
+    color: #FF6347; /* Tomato */
+}
+
+/* RGB color */
+div {
+    color: rgb(34, 139, 34); /* Forest Green */
+}
+
+/* RGBA color */
+button {
+    background-color: rgba(255, 0, 0, 0.3); /* Red with 30% opacity */
+}
